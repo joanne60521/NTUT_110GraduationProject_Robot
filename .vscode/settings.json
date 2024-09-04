@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "testttttttttttttt.sln"
+    "dotnet.defaultSolution": "NTUT_110GraduationProject_Robot.sln"
 }
